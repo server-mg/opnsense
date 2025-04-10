@@ -1,0 +1,22 @@
+# 🔒 OPNsense Security Checker
+
+[![CI Security Check](https://github.com/server-mg/opnsense/actions/workflows/security-check.yml/badge.svg?branch=security-checker)](https://github.com/server-mg/opnsense/actions)
+
+> 🔍 Verificador de segurança para OPNsense com painel web, script de validação e integração com GitHub Actions.
+
+---
+
+## 📋 Visão Geral
+
+Este projeto adiciona uma verificação automatizada de segurança ao seu ambiente OPNsense.  
+Inclui:
+
+- ✅ Painel HTML interativo via WebGUI
+- ✅ Script de verificação de regras, bloqueios e IDS
+- ✅ Relatórios em HTML com upload automático como artefato
+- ✅ GitHub Actions para automação e auditoria contínua
+
+---
+
+## 📦 Estrutura do Projeto
+
