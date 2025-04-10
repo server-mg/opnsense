@@ -1,0 +1,5 @@
+[security-check]
+command:/usr/local/opnsense/scripts/security/security-check.sh
+parameters:
+type:script
+description:Executa verificação de segurança no firewall
